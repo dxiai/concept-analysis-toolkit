@@ -1,0 +1,36 @@
+{
+  "short_name": "Glassdoor",
+  "name": "Glassdoor",
+  "icons": [
+    {
+      "src": "launcher-icon-1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "launcher-icon-2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "launcher-icon-4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.htm",
+  "background_color": "#ffffff",
+  "theme_color": "#0caa41",
+  "display": "browser",
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "instantapp"
+    },
+    {
+      "platform": "play",
+      "id": "instantapp:holdback"
+    }
+  ],
+  "gcm_sender_id": "522484727365"
+}
